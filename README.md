@@ -10,6 +10,7 @@
 - CounterStrikeSharp
 - Metamod
 
+## About ACD
 
 ```
 🎯 Aimbot Detection – Flick speed, angular velocity, crosshair lock, silent aim, triggerbot patterns.
