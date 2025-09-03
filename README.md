@@ -1,16 +1,16 @@
 # CS2-Anticheat-Defense (Private Project)
 
-## CS2 AntiCheat Plugin based on CounterStrikeSharp helps prevent against cheaters.
+### CS2 AntiCheat Plugin based on CounterStrikeSharp helps prevent against cheaters.
 
-### Take control of your server’s integrity with our custom-built Anti-Cheat plugin, designed specifically for Counter-Strike 2. 
-### Built using CounterStrikeSharp, our system detects and reacts to suspicious behaviors in real time:
+***Take control of your server’s integrity with our custom-built Anti-Cheat plugin, designed specifically for Counter-Strike 2.***
+***Built using CounterStrikeSharp, our system detects and reacts to suspicious behaviors in real time:***
 
 ## Requirements
 
 - CounterStrikeSharp
 - Metamod
 
-```
+`
 🎯 Aimbot Detection – Flick speed, angular velocity, crosshair lock, silent aim, triggerbot patterns.
 
 🧠 Advanced Aim Pattern Tracking – Detect rage or closet cheaters based on aim snap speed, accuracy threshold, and headshot consistency.
@@ -24,7 +24,7 @@
 📢 Spam Detection – Radio spam, bunnyhop macros, macro strafing.
 
 📤 Discord Webhook Integration – Auto-report detections with evidence & player stats directly to your server.
-```
+`
 
 ## Configuration
 
