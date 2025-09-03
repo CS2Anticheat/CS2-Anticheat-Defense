@@ -11,7 +11,7 @@
 - Metamod
 
 
-`🎯 Aimbot Detection – Flick speed, angular velocity, crosshair lock, silent aim, triggerbot patterns.
+```🎯 Aimbot Detection – Flick speed, angular velocity, crosshair lock, silent aim, triggerbot patterns.
 
 🧠 Advanced Aim Pattern Tracking – Detect rage or closet cheaters based on aim snap speed, accuracy threshold, and headshot consistency.
 
@@ -23,7 +23,7 @@
 
 📢 Spam Detection – Radio spam, bunnyhop macros, macro strafing.
 
-📤 Discord Webhook Integration – Auto-report detections with evidence & player stats directly to your server.`
+📤 Discord Webhook Integration – Auto-report detections with evidence & player stats directly to your server.```
 
 ## Configuration
 
